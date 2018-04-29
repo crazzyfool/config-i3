@@ -1,0 +1,6 @@
+*
+!/.gitignore.d
+!/.gitignore.d/config-i3
+!/.i3
+!/.i3/config
+
